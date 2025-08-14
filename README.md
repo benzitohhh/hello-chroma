@@ -1,5 +1,7 @@
 # hello-chroma
 
+Course is at https://learn.deeplearning.ai/courses/advanced-retrieval-for-ai
+
 ## To install
 
 ```bash
