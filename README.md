@@ -20,7 +20,7 @@ conda env update -f environment.yml --prune
 
 ## To run Jupyter notebook
 
-i.e. Jupyter is installed withint the conda environment.
+i.e. Jupyter is installed within the conda environment.
 
 ```bash
 jupyter notebook
